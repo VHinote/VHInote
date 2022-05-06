@@ -18,5 +18,15 @@ public class Test2 {
 	public void jam() {
 		System.out.println("Airtel");
 	}
+	
+	public void lam() {
+		System.out.println("Airtel");
+	}
+	
+	public void kam() {
+		System.out.println("Airtel");
+	}
+	
+	
 
 }
